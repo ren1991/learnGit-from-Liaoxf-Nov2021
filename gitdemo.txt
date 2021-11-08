@@ -5,9 +5,5 @@ Git has a mutable index called stage.
 Git trackes changed of files.
 JS tracks change of files.
 ？？？
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-
->>>>>>> feature1
 Hello World is not easy.
